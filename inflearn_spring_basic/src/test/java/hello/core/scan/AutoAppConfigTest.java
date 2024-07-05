@@ -6,7 +6,6 @@ import hello.core.member.MemberService;
 import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 import org.assertj.core.api.Assertions;
-import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
